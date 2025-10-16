@@ -2,6 +2,9 @@
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 
+## Name: Gokul S
+## Ref.NO: 212223040051
+
 ## Software Required:
 Anaconda - Python 3.7
 
